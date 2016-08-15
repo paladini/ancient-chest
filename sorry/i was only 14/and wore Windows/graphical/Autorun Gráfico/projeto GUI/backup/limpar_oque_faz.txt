@@ -1,0 +1,13 @@
+ Aqui está descrito o que o programa faz no computador quando você
+clica na opção "Limpar",veja:
+
+ - Limpa arquivos temporários, lixeira, history, etc.
+ - Fecha processos desnecessários .
+ - Deleta "Meus Arquivos Recebidos" do MSN.
+ - Deleta "Meus Registros" do MSN
+ - Corrigi erros do MSN.
+ # Como alguns erros de entrada, erro de contatos, etc.
+ - Retira Worms do MSN (vírus de MSN).
+ - Deixa o Menu Iniciar mais rápido. (Requer Reeniciar)
+ - Deixa o Internet Explorer mais rápido. 
+ - Melhora Velocidade do Upload.

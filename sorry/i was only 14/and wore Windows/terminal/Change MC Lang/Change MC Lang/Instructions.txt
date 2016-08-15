@@ -1,0 +1,65 @@
+========================  Change MC Lang Readme: ===================================
+Sorry for bad english guys.
+
+------------------------------1 - Pages -------------------------------------------
+
+1 - Pages
+1.1 - About
+2 - Requeriments
+3 - Instructions
+4 - Support
+
+
+---------------------------- 1.1 - About ------------------------------------------
+
+# The "Change MC Lang" are developed by Fernando Paladini on 05/03/11.
+# The "Change MC Lang" are a Free Software, if you buy it, request your money back
+
+The Software are in 1.0 version.
+
+---------------------------- 2 - Requeriments -------------------------------------
+What you need to use "Change MC Lang":
+
+- Windows OS
+- WinRAR - any version
+- Original Minecraft
+
+If you have all requeriments and "Change MC Lang" not start or execute corretcly 
+go to "Support" and send-me an e-mail.
+
+--------------------------- 3 - Instructions --------------------------------------
+
+
+Here instructions for use "Change MC Lang":
+
+You need only one file ".lang" in the "Change MC Lang" to 
+the correct installation.
+
+1º step - Download your ".lang" file (the file of translation).
+
+2º step - Copy the file ".lang" to your "Change MC Lang" folder
+
+3º step - Start "Change MC Lang.exe".
+
+4º step - Select the language
+
+5º step - Select the option ( Install the translation, Unnistall the translation,
+About, exit)
+
+6º step - Wait for ending of the process. Some errors while "No files to delete" are
+commons.
+
+-------------------------- 4 - Support --------------------------------------------
+
+The program are developed only by Fernando Paladini. To suggestions, help and others,
+please send an e-mail to:
+
+fernandopalad@gmail.com
+or
+nando.futebol@hotmail.com
+
+-----------------------------------------------------------------------------------
+
+Please, sorry for bad english and visit:
+
+www.febrenaweb.blogspot.com
