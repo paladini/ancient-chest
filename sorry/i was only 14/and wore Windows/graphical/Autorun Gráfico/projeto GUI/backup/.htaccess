@@ -1,2 +1,0 @@
-# set memory limit for cache.php
-php_value memory_limit 64M

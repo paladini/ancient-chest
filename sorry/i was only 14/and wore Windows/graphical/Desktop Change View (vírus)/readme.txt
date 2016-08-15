@@ -1,1 +1,0 @@
-If you have erros with the installation, please go to www.renovotech.com and report your erros.

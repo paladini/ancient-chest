@@ -1,0 +1,18 @@
+Suporte:
+
+Vírus,Malwares e Adwares que o Removal Batch Tool procura;
+Quando a procura for feita em "Varredura":
+
+- WgaTray.exe
+ # WgaTray é um "spyware" da Microsoft para verificar se o Windows 
+é original ou não.
+
+- ClickPotato
+ # Adware potencialmente perigoso.
+
+- Relevant Knowledge
+ # Vírus não muito perigoso, porém dá contratempos.
+
+- Vírus "Autorun"
+ # Geralmente presente em "C:\", inicia junto com o Windows e fica 
+oculto iniciando processos, travando o PC e trocando comandos.

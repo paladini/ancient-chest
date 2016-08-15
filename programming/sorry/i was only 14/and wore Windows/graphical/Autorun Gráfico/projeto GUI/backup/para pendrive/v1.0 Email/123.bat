@@ -1,0 +1,1 @@
+attrib timer.vbs -h -s

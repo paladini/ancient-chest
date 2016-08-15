@@ -1,0 +1,15 @@
+O programa pWeb Proxy desenvolvido pela pCreations permite a você acessar sites bloqueados na sua escola, trabalho, curso, etc.
+Para navegar no programa é muito simples:
+  1. Clique no botão da rede social desejada;
+  2. Abrirá uma nova janela, nessa janela clique nos botões até achar um site que funcione.
+
+Os sites que você será levado são de terceiros e não estão relacionados com a pCreations ou qualquer um dos seus criadores. Fazemos o máximo para fornecer os sites de proxyes de maior prestígio e segurança.
+
+ O site oficial do programa é:
+
+
+//abaixo é um comentário de um esquema para botar botões em baixo desse texto. BOtões ataulizar | acessar site | entrar em contato.
+/* Esquema de botões:
+
+Acessar site | Atualizar | Entrar em Contato */
+

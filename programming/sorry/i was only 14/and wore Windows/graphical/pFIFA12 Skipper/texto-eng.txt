@@ -1,0 +1,9 @@
+FIFA 12 Skipper allow to you skip the "connection with EA servers".
+He only add instructions in HOSTS file of Windows, and because this it's inoffensive. Instructions:
+
+   # To apply this patch in FIFA 12, click on "Patch It". 
+   # If you don't want more this patch, click on "Backup" button to restore your preview configs.
+
+Software developer: Fernando Paladini
+Design developer: Paulo Fernando A. Fontes
+By pCreations.

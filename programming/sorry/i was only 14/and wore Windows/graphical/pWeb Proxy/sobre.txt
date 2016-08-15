@@ -1,0 +1,7 @@
+ O programa pWeb Proxy foi desenvolvido em 2011 por Fernando Paladini e Paulo Fernando A. Fontes - ambos pertencem a pCreations.
+
+Desenvolvido para o acesso e utilização de sites bloqueados para usuários comuns, o programa tem como principalcaracterística a fácil utilização.
+
+Atualmente se encontra na Versão 1.0
+Entre em contato: fernandopalad@gmail.com
+Website: www.techsempre.com.br

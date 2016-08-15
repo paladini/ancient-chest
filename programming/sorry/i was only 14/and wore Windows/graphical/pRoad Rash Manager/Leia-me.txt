@@ -1,0 +1,12 @@
+
+Com este aplicativo você pode pular a "conexão com os servidores da EA" que acontece durante a inicilização do FIFA 12. Você faz isso apenas clicando em um botão, e se não quiser mais, pode retirar o patch com apenas um botão. 
+
+Se você está incomodado com a demora para o jogo iniciar, pode usar esse pequeno patch para burlar a conexão com os servidores da EA. (que gasta muito tempo na inicialização do jogo). 
+
+=============================================== 
+
+NECESSÁRIO PERMISSÃO DE ADMINISTRADOR! 
+
+=============================================== 
+
+Desenvolvido por Fernando Paladini e Paulo Fernando A. Fontes. Programa por pCreations. 

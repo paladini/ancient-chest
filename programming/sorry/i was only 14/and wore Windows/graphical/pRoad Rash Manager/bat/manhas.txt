@@ -1,0 +1,8 @@
+Durante o jogo aperte XYZZY para abrir a tela de cheats, coloque algum dos códigos abaixo:
+
+YES,OCCIFER - Mata o policial
+BRIBE - Mata o policial
+SPOON! - Nitro
+THWACK! - Ir para a cadeia
+K'THUNK! - Obter clube
+PLUGH - Desabilitar Manhas

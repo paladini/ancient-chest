@@ -1,0 +1,9 @@
+O pFIFA12 Skipper permite pular a "conexão com os servidores da EA" no início do jogo. 
+Ele apenas adiciona instruções no arquivo HOSTS do Windows, e por isso é inofensivo. Instruções:
+
+   # Para aplicar o patch clique em "Inst. Patch". 
+   # Caso ocorra algum erro ou não queira mais o patch, clique no botão Backup que suas configurações antigas serão restauradas. 
+
+Desenvolvimento do Software: Fernando Paladini
+Desenvolvimento do Design: Paulo Fernando A. Fontes
+Por pCreations.
